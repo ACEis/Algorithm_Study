@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b211b1b2-bd6d-487c-aa63-9c6b03e3157b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithm_Study" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/treenode/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="187" column="1" selection-start-line="174" selection-start-column="13" selection-end-line="187" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#TreeNode#0" />
+                <element signature="class#Offer17#0" />
+                <element signature="class#Offer18#0" />
+                <element signature="class#Offer22#0" />
+                <element signature="class#Offer23#0" />
+                <element signature="class#Offer24#0" />
+                <element signature="class#Offer26#0" />
+                <element signature="class#Offer38#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>array</find>
+      <find>Node</find>
+      <find>arr</find>
+      <find>aim</find>
+      <find>conins</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>nums</replace>
+      <replace>ListNode</replace>
+      <replace>conins</replace>
+      <replace>amount</replace>
+      <replace>coins</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/ValidNumber.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/TestInterface.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/TestImple.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer53.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer54.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer55.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer56.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer57.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer58.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/cqu/binarytree/SerializeandDeserializeBinaryTree.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer59.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer60.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer61.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/cqu/stackandqueue/WindowOfArrayMax.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer62.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/CountCompleteTreeNodes.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/FirstOnceChar.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/cqu/collectiondemo/LinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer65.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer66.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer67.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer01.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer02.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer03.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer04.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer05.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer06.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer07.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer11.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer12.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer13.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer14.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer15.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/TreeNode.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer19.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/stackandqueue/Offer20.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/string/Offer27.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/array/Offer28.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer28.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer29.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/dynamicprograming/Offer30.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer31.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer32.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer33.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer34.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer35.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/listnode/Offer36.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/listnode/Offer15.java" />
+        <option value="$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/FindMaxDivision.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer37.java" />
+        <option value="$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/treenode/TreeNode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithm_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="NowcoderOffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="NowcoderOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="NowcoderOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Offer37">
+    <configuration name="Offer23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.cqu.nowcoder.treenode.Offer23" />
+      <module name="NowcoderOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.cqu.nowcoder.treenode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.cqu.nowcoder.treenode.Offer24" />
+      <module name="NowcoderOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.cqu.nowcoder.treenode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.cqu.nowcoder.sort.Offer32" />
+      <module name="NowcoderOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.cqu.nowcoder.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.cqu.nowcoder.sort.Offer37" />
+      <module name="NowcoderOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.cqu.nowcoder.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.edu.cqu.nowcoder.Temp" />
+      <module name="NowcoderOffer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.edu.cqu.nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Offer37" />
+        <item itemvalue="Application.Temp" />
+        <item itemvalue="Application.Offer32" />
+        <item itemvalue="Application.Offer24" />
+        <item itemvalue="Application.Offer23" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b211b1b2-bd6d-487c-aa63-9c6b03e3157b" name="Default Changelist" comment="" />
+      <created>1574151789251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574151789251</updated>
+      <workItem from="1574151793193" duration="2474000" />
+      <workItem from="1574321844574" duration="5125000" />
+      <workItem from="1574411612765" duration="11910000" />
+      <workItem from="1574475171429" duration="20938000" />
+      <workItem from="1574571094711" duration="20759000" />
+      <workItem from="1574666341592" duration="10783000" />
+      <workItem from="1574679672174" duration="12830000" />
+      <workItem from="1574695868614" duration="502000" />
+      <workItem from="1574748310630" duration="177000" />
+      <workItem from="1574748525788" duration="16399000" />
+      <workItem from="1574823427847" duration="23793000" />
+      <workItem from="1574913140358" duration="21202000" />
+      <workItem from="1574997297630" duration="642000" />
+      <workItem from="1575088028995" duration="16925000" />
+      <workItem from="1575118360668" duration="5608000" />
+      <workItem from="1575189002708" duration="3128000" />
+      <workItem from="1575200332540" duration="10355000" />
+      <workItem from="1575212402039" duration="1127000" />
+      <workItem from="1575288096035" duration="8712000" />
+      <workItem from="1575370148463" duration="10329000" />
+      <workItem from="1575606954853" duration="138000" />
+      <workItem from="1575607129885" duration="620000" />
+      <workItem from="1575607785815" duration="54000" />
+      <workItem from="1575607874056" duration="515000" />
+      <workItem from="1575608433766" duration="69000" />
+      <workItem from="1575717118807" duration="1424000" />
+      <workItem from="1575803859657" duration="11618000" />
+      <workItem from="1575965327744" duration="677000" />
+      <workItem from="1575973541963" duration="11923000" />
+      <workItem from="1576066459342" duration="7742000" />
+      <workItem from="1576152477867" duration="8900000" />
+      <workItem from="1576325648873" duration="8202000" />
+      <workItem from="1576410906388" duration="9544000" />
+      <workItem from="1576505357224" duration="38000" />
+      <workItem from="1577000446510" duration="2165000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1577001726300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577001726300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="267347000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49832776" visible="true" weight="0.3916849" />
+      <window_info id="Structure" order="1" sideWeight="0.5011236" side_tool="true" weight="0.32713348" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50167227" side_tool="true" weight="0.32713348" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280899" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38876405" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32845894" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010941" side_tool="true" weight="0.32921347" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32921347" />
+      <window_info anchor="bottom" id="Statistic" order="13" sideWeight="0.4989059" weight="0.32845894" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" order="14" visible="true" weight="0.45393258" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Word Book" order="9" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/Partition3Num.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/FindMatrixNumPosition.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/stringalgorithm/ValidAnagram.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/stringalgorithm/ReverseWords.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/listnode/PartitionList.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/listnode/CopyListwithRandomPointer.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/GetLessIndex.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/ImplementPow.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/binarytree/BinaryTreePostorderTraversal.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/binarytree/ValidateBinarySearchTree.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/bitoperation/SingleNumber.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cn/edu/cqu/dynamicprogramming/ForCorrentChange.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/ValidNumber.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer54.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer55.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer67.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer02.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer06.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="143" column="36" selection-start-line="141" selection-start-column="7" selection-end-line="145" selection-end-column="47" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/binarytree/SerializeandDeserializeBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/collectiondemo/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="9" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer65.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer66.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer67.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="3587" column="24" selection-start-line="3587" selection-start-column="24" selection-end-line="3587" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="137" selection-start-line="18" selection-start-column="137" selection-end-line="18" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#90#99#0" expanded="true" />
+            <element signature="e#140#149#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/CountCompleteTreeNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/FindIndexEqualValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer06.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="4" selection-start-column="8" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/binarysearch/FindMinimuminRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer07.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#487#496#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/stackandqueue/WindowOfArrayMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/stackandqueue/StackReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/stackandqueue/SortStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/stackandqueue/ArrayToMaxTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/stackandqueue/Offer20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="class#Offer20#0" />
+            <element signature="method#push#0;class#Offer20#0" />
+            <element signature="method#pop#0;class#Offer20#0" />
+            <element signature="method#top#0;class#Offer20#0" />
+            <element signature="method#min#0;class#Offer20#0" />
+            <element signature="class#Offer21#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/binarytree/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/string.java" />
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/string/Offer27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/dynamicprograming/Offer30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer33.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#666#690#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/Offer34.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/listnode/Offer36.java" />
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer35.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/FindMaxDivision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/listnode/Offer15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+          <folding>
+            <element signature="class#ListNode#0" />
+            <element signature="class#Offer15#0" />
+            <element signature="class#Offer16#0" />
+            <element signature="class#Offer25#0" />
+            <element signature="e#1435#1436#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="class#Offer36#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/ShortestDisorderSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/Partition3Num.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/edu/cqu/sortalgorithm/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/sort/Offer37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NowcoderOffer/src/cn/edu/cqu/nowcoder/treenode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="187" column="1" selection-start-line="174" selection-start-column="13" selection-end-line="187" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#TreeNode#0" />
+            <element signature="class#Offer17#0" />
+            <element signature="class#Offer18#0" />
+            <element signature="class#Offer22#0" />
+            <element signature="class#Offer23#0" />
+            <element signature="class#Offer24#0" />
+            <element signature="class#Offer26#0" />
+            <element signature="class#Offer38#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
