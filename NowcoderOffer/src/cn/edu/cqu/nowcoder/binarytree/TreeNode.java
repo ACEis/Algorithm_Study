@@ -1,9 +1,8 @@
-package cn.edu.cqu.nowcoder.treenode;
+package cn.edu.cqu.nowcoder.binarytree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 public class TreeNode {
     int val = 0;
@@ -172,17 +171,32 @@ class Offer38{
     }
 }
 
+/**
+ * 平衡二叉树
+ */
 class Offer39{
     public boolean IsBalanced_Solution(TreeNode root) {
+        boolean[] isBalance = new boolean[1];
+        isBalance[0] = true;
+        getHeight(root, 1, isBalance);
+        return isBalance[0];
+    }
+
+    private int getHeight(TreeNode root, int level, boolean[] isBalence) {
         if (root == null) {
-            return false;
+            return level;
         }
-        if (root.left == null && root.right == null) {
-            return true;
+        int leftHeight = getHeight(root.left, level + 1, isBalence);
+        if (!isBalence[0]) {
+            return level;
         }
-        if (root.left == null || root.right == null) {
-            return false;
+        int rightHeight = getHeight(root.right, level + 1, isBalence);
+        if (!isBalence[0]) {
+            return level;
         }
-        return IsBalanced_Solution(root.left) && IsBalanced_Solution(root.right);
+        if (Math.abs(leftHeight - rightHeight) > 1) {
+            isBalence[0] = false;
+        }
+        return Math.max(leftHeight, rightHeight);
     }
 }
