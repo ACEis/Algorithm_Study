@@ -176,26 +176,24 @@ class Offer38{
  */
 class Offer39{
     public boolean IsBalanced_Solution(TreeNode root) {
-        boolean[] isBalance = new boolean[1];
+        boolean isBalance[] = new boolean[1];
         isBalance[0] = true;
-        getHeight(root, 1, isBalance);
+        getHeight(root, isBalance, 1);
         return isBalance[0];
     }
 
-    private int getHeight(TreeNode root, int level, boolean[] isBalence) {
+    private int getHeight(TreeNode root, boolean[] isBalance, int level) {
         if (root == null) {
             return level;
         }
-        int leftHeight = getHeight(root.left, level + 1, isBalence);
-        if (!isBalence[0]) {
+        if (isBalance[0] == false) {
             return level;
         }
-        int rightHeight = getHeight(root.right, level + 1, isBalence);
-        if (!isBalence[0]) {
-            return level;
-        }
+        int leftHeight = getHeight(root.left, isBalance, level + 1);
+        int rightHeight = getHeight(root.right, isBalance, level + 1);
         if (Math.abs(leftHeight - rightHeight) > 1) {
-            isBalence[0] = false;
+            isBalance[0] = false;
+            return level;
         }
         return Math.max(leftHeight, rightHeight);
     }
