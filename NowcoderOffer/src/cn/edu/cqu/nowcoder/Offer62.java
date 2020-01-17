@@ -2,7 +2,7 @@ package cn.edu.cqu.nowcoder;
 
 import java.util.*;
 
-public class Offer62 {
+public class  Offer62 {
     public ArrayList<Integer> maxInWindows(int [] num, int size)
     {
         if (num.length == 0 || size == 0) {
